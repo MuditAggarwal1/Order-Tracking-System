@@ -44,8 +44,3 @@ until it reaches to customer door.</p>
   }
 </style>
 <img class="mobile" style="max-width:50%;" src="deliveryman.png" />
-<h3>Future plans</h3>
-<li>Integrete payment method</li>
-<li>Add search functionalities</li>
-<li>Add feedback system</li>
-<p>Made with love <3 by Tuhin</p>
